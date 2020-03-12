@@ -1,0 +1,25 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Broker__c",
+                "referenceId": "Broker__cRef1"
+            },
+            "Name": "Test 2 Agris",
+            "Properties__r": {
+                "records": []
+            }
+        },
+        {
+            "attributes": {
+                "type": "Broker__c",
+                "referenceId": "Broker__cRef2"
+            },
+            "Name": "Test 1",
+            "Title__c": "ssd",
+            "Properties__r": {
+                "records": []
+            }
+        }
+    ]
+}
